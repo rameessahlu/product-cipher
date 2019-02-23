@@ -1,4 +1,4 @@
-A basic cryptographic algorithm by using combination of substitution & transposition ciphers.
+A basic cryptographic algorithm using combination of substitution & transposition ciphers.
 ## Design Structure:
 
 * Encryption
