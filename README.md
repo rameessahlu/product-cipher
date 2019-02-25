@@ -6,3 +6,6 @@ A basic cryptographic algorithm using combination of substitution & transpositio
 
 * Decryption
 ![Decryption](https://github.com/rameessahlu/SimpleProductCipher/blob/master/design/design_decrypt.JPG)
+
+## Output:
+![Output](https://github.com/rameessahlu/ProductCipher/blob/master/output.jpg)
