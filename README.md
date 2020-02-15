@@ -2,7 +2,7 @@ A basic cryptographic algorithm using combination of substitution & transpositio
 ## Design Structure:
 
 * Encryption
-![Encryption](https://github.com/rameessahlu/SimpleProductCipher/blob/master/design/design_decrypt.JPG)
+![Encryption](https://github.com/rameessahlu/SimpleProductCipher/blob/master/design/design_encrypt.JPG)
 
 * Decryption
 ![Decryption](https://github.com/rameessahlu/SimpleProductCipher/blob/master/design/design_decrypt.JPG)
